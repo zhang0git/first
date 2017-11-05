@@ -12,6 +12,8 @@ public class Book2 {
 	// 图书描述
 	private String desc;
 
+	private String a;
+
 	public Integer getId() {
 		return id;
 	}
